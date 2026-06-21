@@ -1,5 +1,5 @@
 ## Introduction
-SmartEnv Dashboard is an IoT project that integrates Node-RED with AWS IoT Core to provide a live monitoring and control system. It collects multi-sensor data streams (Temperature, Humidity, Pressure, CO2, UV, Light, Soil, Air Quality) and enables real-time visualization and actuator control (LEDs, audio alerts).
+Smart Environment Dashboard is an IoT project that integrates Node-RED with AWS IoT Core to provide a live monitoring and control system. It collects multi-sensor data streams (Temperature, Humidity, Pressure, CO2, UV, Light, Soil, Air Quality) and enables real-time visualization and actuator control (LEDs, audio alerts).
 
 ## Features
 - Real-time sensor data streaming via MQTT.
@@ -15,8 +15,8 @@ SmartEnv Dashboard is an IoT project that integrates Node-RED with AWS IoT Core 
 - JavaScript functions (custom logic)
 
 ## Demo
-**Sensors**: Temperature, Humidity, Pressure, Light, Soil, CO2, UV, Air Quality
-**Outputs**: LEDs (status indicators), Audio alerts
+**Sensors**: Temperature, Humidity, Pressure, Light, Soil, CO2, UV, Air Quality.
+**Outputs**: LEDs (status indicators), Audio alerts.
 
 ## Setup
 1. Install Node-RED locally or on a server.
