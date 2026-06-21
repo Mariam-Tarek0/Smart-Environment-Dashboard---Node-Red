@@ -15,8 +15,8 @@ Smart Environment Dashboard is an IoT project that integrates Node-RED with AWS 
 - JavaScript functions (custom logic)
 
 ## Demo
-**Sensors**: Temperature, Humidity, Pressure, Light, Soil, CO2, UV, Air Quality.
-**Outputs**: LEDs (status indicators), Audio alerts.
+- **Sensors**: Temperature, Humidity, Pressure, Light, Soil, CO2, UV, Air Quality.
+- **Outputs**: LEDs (status indicators), Audio alerts.
 
 ## Setup
 1. Install Node-RED locally or on a server.
